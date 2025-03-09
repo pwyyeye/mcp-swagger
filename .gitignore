@@ -41,3 +41,4 @@ botpy.log*
 /jp-tyo-churros-05.rockchin.top
 node_modules/
 dist/
+package-lock.json
